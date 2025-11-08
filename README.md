@@ -1,16 +1,17 @@
 # OpenGuesr-Sucks
 tampermonkey userscript to get location from openguessr game
+
+---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N01O410Y)
 ---
+
 ### 💀 What it does
-- Fixes OpenGuessr’s weird UI  
+- Get Openguessr game location instantly   
 - Adds vertical info bar (flag, map, city, etc.)  
 - Auto-hide & toggle system  
 - Floating detailed info panel  
 - Minimal modern dark theme  
-- No background map (clean look)  
-- Dynamic colors + emojis  
-- Runs smooth, no lag, full sigma energy  
+- Runs smooth, no lag  
 
 ---
 
@@ -18,11 +19,11 @@ tampermonkey userscript to get location from openguessr game
 1. Install a userscript manager:
    - [Tampermonkey](https://www.tampermonkey.net/)
    - [Violentmonkey](https://violentmonkey.github.io/)
-   - or [Greasemonkey (GM)](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+   - or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 2. Create a new userscript  
 3. Paste the code from this repo  
 4. Save → refresh OpenGuessr  
-5. Enjoy the chaos.
+5. Enjoy
 
 ---
 
@@ -44,10 +45,8 @@ tampermonkey userscript to get location from openguessr game
 ### 🗺️ Map Features
 - Resizable rounded-square mini map  
 - Zoom in/out buttons (+ / -)  
-- Focus stays on your guess location  
-- Uses Google Maps style (logo included)  
-- Auto-hide when info bar is hidden  
-- Independent visibility toggle
+- Focus stays on your guess location 
+- Auto-hide when info bar is hidden 
 
 ---
 
