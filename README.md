@@ -46,5 +46,14 @@ tempermonkey userscript to get location from openguessr game
 - Focus stays on your guess location  
 - Uses Google Maps style (logo included)  
 - Auto-hide when info bar is hidden  
-- Independent visibility toggle  
+- Independent visibility toggle
+
+---
+
+## 🖼️Preview
+![Preview](./assets/preview1.png)
+
+![Preview](./assets/preview2.png)
+
+
 
