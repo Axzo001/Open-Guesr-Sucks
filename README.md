@@ -29,11 +29,11 @@ tempermonkey userscript to get location from openguessr game
 
 | Key / Combo | Function |
 |--------------|-----------|
-| **Ctrl + I** | Toggle Info Bar |
-| **Ctrl + M** | Toggle Mini Map |
-| **Ctrl + D** | Show / Hide Detailed Info |
-| **Ctrl + H** | Hide All (auto-hide) |
-| **Ctrl + R** | Reset Layout |
+| **Alt + I** | Toggle Info Bar |
+| **Alt + M** | Toggle Mini Map |
+| **Alt + D** | Show / Hide Detailed Info |
+| **Alt + H** | Hide All (auto-hide) |
+| **Alt + R** | Reset Layout |
 | **Click Buttons (Top Right)** | Manual toggle for map, info, detailed panel |
 
 > ⚠️ Custom shortcuts — not the same as Chrome defaults, so it won’t mess up chat or game input.
